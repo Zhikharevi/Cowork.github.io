@@ -1,1 +1,1 @@
-# Cowork.github.io
+Ссылка на макет Figma https://www.figma.com/file/fyq2pe0GTU30qYmijP1YUP/%D0%9A%D0%BE%D0%B2%D0%BE%D1%80%D0%BA%D0%B8%D0%BD%D0%B3-CoWOrks-%2F-%D0%AE%D0%BD%D0%B8%D1%82-2024-(Copy)?type=design&node-id=890%3A63&mode=design&t=B3U5MmC2BbJl784Z-1
